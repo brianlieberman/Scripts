@@ -12,5 +12,5 @@ Used with an Apache web server as a CGI page to parse the passed query string an
 
 
 -changeDevice.sh
-Uses 'expect' to spawn a telnet session to the vitrual panel and reconfigured the virtual panel to the desired room the user selected.
+Uses 'expect' to spawn a telnet session to the vitrual panel and reconfigure the virtual panel to the desired room the user selected.
 
